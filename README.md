@@ -1,5 +1,5 @@
 ###imthiyas ahamed.m
-###
+###reg no-21224050012
 ### study-of-basic-gates
 
 **AIM:** 
@@ -72,9 +72,11 @@ Y= A⊕B
 ![WhatsApp Image 2025-03-19 at 09 48 15_6541dd5d](https://github.com/user-attachments/assets/c4314a8b-c8a8-4415-85cd-d35b6c918ce0)
 
 **RTL realization Output:** 
-![Screenshot 2025-03-19 092729](https://github.com/user-attachments/assets/b66af5ac-7a1f-4d00-936e-69a66e34b35e)
+
+![401398301-0b453ecb-1f70-4558-89cd-fde724057ac3](https://github.com/user-attachments/assets/bee3a345-0cf5-4fe9-a901-8b611008b1c3)
 
 **RTL**
+![401398430-c7458eb9-c5ce-4e33-b4e4-c2166877d440](https://github.com/user-attachments/assets/f274e138-0588-4e4b-8a9d-baecf724c5bf)
 
 **Result:**
 the truth table of logic gates in Quartus II is verified using Verilog programming.
