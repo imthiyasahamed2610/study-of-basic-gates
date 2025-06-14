@@ -1,6 +1,8 @@
-imthiyas ahame
+IMTHIYAS AHAMED 
+
 reg no-21224050012
-studyofbasicgates
+
+STUDY OF BASICGATES 
 
 **AIM:** 
 
