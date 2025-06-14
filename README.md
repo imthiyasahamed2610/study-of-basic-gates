@@ -1,6 +1,6 @@
-###imthiyas ahamed.m
-###reg no-21224050012
-### study-of-basic-gates
+imthiyas ahame
+reg no-21224050012
+studyofbasicgates
 
 **AIM:** 
 
